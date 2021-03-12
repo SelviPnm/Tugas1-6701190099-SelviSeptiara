@@ -1,3 +1,6 @@
 Tingkat 1
 Sem.1 : 3.65
 Sem.2 : 3.63
+
+Tingkat 2
+Sem.3 : 3.47
